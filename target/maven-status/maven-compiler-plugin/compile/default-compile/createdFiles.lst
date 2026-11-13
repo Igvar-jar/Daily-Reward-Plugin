@@ -1,0 +1,6 @@
+org\dailyRewards\Listeners\GuiListener.class
+org\dailyRewards\Models\YamlFile.class
+org\dailyRewards\Getter\Gui.class
+org\dailyRewards\Commands\DailyCommand.class
+org\dailyRewards\DailyRewards.class
+org\dailyRewards\Getter\Language.class

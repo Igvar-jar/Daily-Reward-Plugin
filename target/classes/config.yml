@@ -1,0 +1,16 @@
+language: en
+
+how-long-is-day: 86400000
+
+gui:
+  title: "§aDaily"
+  size: 54
+
+command:
+  name: daily
+  description: Everything about daily
+  usage: "/daily [add,lore,name,reload,set,remove]"
+  aliases: []
+  default-permission: "daily.command.default"
+  default-permission-state: true
+  admin-permission: "daily.command.admin"

@@ -1,0 +1,6 @@
+name: DailyRewards
+version: '1.0'
+main: org.dailyRewards.DailyRewards
+api-version: '1.21'
+author: Igvar
+softdepend: [PlaceholderAPI]
