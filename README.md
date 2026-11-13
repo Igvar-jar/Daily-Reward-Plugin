@@ -138,6 +138,28 @@ Sets name of item in gui for specified day
 /daily name <day> <name>
 ```
 
+### Remove subcommand
+
+Remove every reward from day and it disappears from the gui
+
+```bash
+/daily remove <day>
+```
+
+### Reload subcommand
+
+Reloads every file in plugin directory
+
+```bash
+/daily reload
+```
+
+
+## Placeholders
+
+You can use placeholders in name,lore and commands. Built in
+placeholder is **%player%** which changes in action to 
+player name. You can also use [PlaceholderAPI](https://modrinth.com/plugin/placeholderapi)
 
 ## Contributing
 

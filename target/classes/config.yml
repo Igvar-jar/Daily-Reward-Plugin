@@ -1,11 +1,16 @@
+#Language, to set give a name of file in languages directory, built in: en,pl
 language: en
 
+#how long is a day in milliseconds, build in value is 24 hours
 how-long-is-day: 86400000
 
+#config to gui
 gui:
   title: "§aDaily"
   size: 54
 
+#config to command
+#to change you must restart server
 command:
   name: daily
   description: Everything about daily

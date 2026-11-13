@@ -4,3 +4,4 @@ main: org.dailyRewards.DailyRewards
 api-version: '1.21'
 author: Igvar
 softdepend: [PlaceholderAPI]
+website: https://github.com/Igvar-jar/Daily-Reward-Plugin
